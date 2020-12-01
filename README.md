@@ -2,6 +2,8 @@
 
 This is the official repository for DPCN, with paper "[Deep Phase Correlation for End-to-End Heterogeneous Sensor Measurements Matching](https://arxiv.org/abs/2008.09474)" accpepted and presented in CoRL2020.
 
+The main code is maintained in [ZJU-Robotics-Lab/DPCN](https://github.com/ZJU-Robotics-Lab/DPCN)"
+
 
 
 ## Dependencies
